@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457562877 source:c:\users\usuario\desktop\progra de sistemas\parcial 2\arreglo bidi 3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

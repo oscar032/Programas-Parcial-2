@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="arreglos/arreglos.cbp" />
+		<Project filename="tarea arreglos 1/tarea arreglos 1.cbp" />
+		<Project filename="tarea arreglos 2/tarea arreglos 2.cbp" />
+		<Project filename="arreglos 3/arreglos 3.cbp" />
+		<Project filename="tarea/tarea.cbp" />
+		<Project filename="arreglos4/arreglos4.cbp" />
+		<Project filename="prueba2/prueba2.cbp" />
+		<Project filename="arreglo bidi/arreglo bidi.cbp" />
+		<Project filename="Arreglo bidi 2/Arreglo bidi 2.cbp" />
+		<Project filename="Arreglo Bidi 3/Arreglo Bidi 3.cbp" />
+		<Project filename="estructuras/estructuras.cbp" />
+		<Project filename="EstructurasArreglo/EstructurasArreglo.cbp" />
+		<Project filename="EsctrucArreglo2/EsctrucArreglo2.cbp" />
+		<Project filename="PruebaParcial2/PruebaParcial2.cbp" />
+		<Project filename="arreglosbidi/arreglosbidi.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
